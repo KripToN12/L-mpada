@@ -1,1 +1,1 @@
-# L-mpada
+# Lampada
